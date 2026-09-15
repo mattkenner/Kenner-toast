@@ -1,3 +1,5 @@
 requests==2.32.3
 psycopg[binary]==3.3.5
 python-dateutil==2.9.0.post0
+Flask==3.1.2
+gunicorn==23.0.0
